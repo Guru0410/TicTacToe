@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AllTests" project="SOEN6011" tests="11" started="11" failures="0" errors="0" ignored="0">
+  <testsuite name="concordia.soen6011.team3.ttt.junit.AllTests" time="0.25">
+    <testsuite name="concordia.soen6011.team3.ttt.junit.TTTBoardTest" time="0.167">
+      <testcase name="testSetColumns" classname="concordia.soen6011.team3.ttt.junit.TTTBoardTest" time="0.001"/>
+      <testcase name="testValidBoard" classname="concordia.soen6011.team3.ttt.junit.TTTBoardTest" time="0.0"/>
+      <testcase name="testSetRows" classname="concordia.soen6011.team3.ttt.junit.TTTBoardTest" time="0.0"/>
+      <testcase name="testNextTurn" classname="concordia.soen6011.team3.ttt.junit.TTTBoardTest" time="0.166"/>
+    </testsuite>
+    <testsuite name="concordia.soen6011.team3.ttt.junit.TTTGameElementTest" time="0.037">
+      <testcase name="testSetHeight" classname="concordia.soen6011.team3.ttt.junit.TTTGameElementTest" time="0.006"/>
+      <testcase name="testGetSymbol" classname="concordia.soen6011.team3.ttt.junit.TTTGameElementTest" time="0.006"/>
+      <testcase name="testNewBoard" classname="concordia.soen6011.team3.ttt.junit.TTTGameElementTest" time="0.018"/>
+      <testcase name="testSetWidth" classname="concordia.soen6011.team3.ttt.junit.TTTGameElementTest" time="0.006"/>
+    </testsuite>
+    <testsuite name="concordia.soen6011.team3.ttt.junit.TTTMenuBarTest" time="0.046">
+      <testcase name="testComponentName" classname="concordia.soen6011.team3.ttt.junit.TTTMenuBarTest" time="0.013"/>
+      <testcase name="testComponentCount" classname="concordia.soen6011.team3.ttt.junit.TTTMenuBarTest" time="0.032"/>
+      <testcase name="testComponentVisibility" classname="concordia.soen6011.team3.ttt.junit.TTTMenuBarTest" time="0.001"/>
+    </testsuite>
+  </testsuite>
+</testrun>
